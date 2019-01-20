@@ -3,8 +3,7 @@ node_js: node
 deploy:
   provider: heroku
   edge: true
-  api_key:
-    secure: kk2h8TMjVEm9pBoqx90jz32PPoaOm7rpV8YxGsg+xncyQR8zLkVUZVs22i6Lq059qF/IbPsTBLZz4FkvbrYprDNinB1GgL8HgSzQCmkNfhWXeG8kJZLYtAjjK8W6gmtqd5k+IxcBBhiY+eLkrrQfkj6DInG2Ko+o+AOhWbETVRPjBYOmKOcbPzcbCruOkED4z+HtfEw6Y2o81fKh1xC72b7GskgkaGzuIZyKn+JWBQ6/y2uZxF1dIfieBzz1egCg3f7jvhj8GlGta7fcaGKC1kmj6Grp9g9OgKq3u/BBLYcxd4Nr+wx1erj9F0Uq8brKcgBuD8aF70Qy3Vbi8Saqd+L7QI39zYkK7gXeR0lepUC87ffX7GS30U52KgI9WCafsfOFXLtXSkxpjMrBzEy3+Jq9hXGHD6KENOOJ4Mdrh8Xao11ZXmlSGsrrquA40RPUQK7GfYFIJNzS3F8sP5tPk4/bhZ+UTWrrZKb7rd6JIiNH1Ic4BT3FatzufWzi2sKC6uki6ge9i6EM0jdMKgaLDEvdTojdSeltnf/FaW2RjOmwf2xfNdLZ5t4SUvF+XurWf704JeaDxdVLV4N0hKJZUCwdMaVSeWJn/s2fBJS7bIVTD0OjO2yDqeFjplP9M9+FDqYkA6uu7Nav2ekWr827pWC7YbarONhNhJOHQYL9cGY=
+  api_key: acf09812-636f-4bf5-8197-bc68cefbf1fd
   app: mighty-dusk-54682
   on:
     repo: aaltamirano1/node-shopping-list-integration-tests
